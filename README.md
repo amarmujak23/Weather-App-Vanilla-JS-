@@ -1,0 +1,1 @@
+This compact Weather App is simple but effective. It harnesses the power of Vanilla JavaScript and external API’s to fetch weather data, display temperature, capitalize weather descriptions and showcase weather icons. Technologies Used: HTML, CSS, JavaScript, particles.js.
